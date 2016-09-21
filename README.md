@@ -19,7 +19,7 @@ The application begins again this approach until there have more leaves.
 
 Possibility to select the desired scanner.
 
-The mine was controlled by network.
+The mine was controlled by network. 
 
 
 
